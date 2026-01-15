@@ -7,8 +7,8 @@ jobs:
     machine: true
     steps:
       - mabl-trigger-tests/run-tests:
-          api-key: MABL_API_KEY
-          application-id: myApplicationID-a
+          api-key: RgYhOfX3bSVXo8VweVZ7GQ
+          
           environment-id: CNyyG68YYcpEebFyWwRqTw-e
 workflows:
   test-my-app:
